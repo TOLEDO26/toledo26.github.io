@@ -18,7 +18,7 @@
 	display:flex;
 	align-items:center;
 	justify-content: space-between;
-	ont-family: 'Heebo', sans-serif;
+	font-family: 'Heebo', sans-serif;
 }
 
 .logo {
@@ -99,4 +99,40 @@ p{
 	text-align: justify;
 }
 
+button {
+	width:160px;
+	padding: 10px 0;
+	text-align: center;
+	margin: 10px 5px;
+	border-radius:45px;
+	font-weight: bold;
+	border: 2px solid #cc0000;
+	background: transparent;
+	color: #e5e5e5;
+	cursor:pointer;
+	margin-left:5%; 
+	position: relative;
+	margin-left: 85px;
+	text-transform: uppercase;
+}
+
+button:hover span {
+	width: 100%
+}
+
+button:hover {
+	border: none;
+}
+
+a:hover {
+  color: #cc0000;
+}
+
+a:link {
+  text-decoration:none;
+}
+
+a:visited {
+  color: #FFFFFF;
+}
 
