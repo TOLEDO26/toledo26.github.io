@@ -1,0 +1,81 @@
+.bg {
+	background-image: url("menu.jpg");	
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+
+td, tr {
+	font-family: 'Montserrat', sans-serif;
+	color: #e5e5e5;
+}
+
+th {
+	margin-bottom: 55px;
+}
+
+table {
+	margin-top: 50px;
+	
+}
+
+input[type=submit] {	
+	background-color: #379683;
+	cursor: pointer;
+	width: 25%;
+	border-radius: 5px;
+}
+
+input[type=reset] {
+	background-color: #F35454;
+	cursor: pointer;
+	width: 25%;
+	border-radius: 5px;
+}
+
+input[type=text] {
+	border-radius: 2px;
+}
+
+
+.feedback {
+	width: 50%;
+}
+
+.title {
+	font-size: 1.8em;
+	margin-left: 40px;
+	color
+}
+	
+.burger {
+	width: 300px;
+	height: 180px;
+}
+
+.drink {
+	width: 270px;
+	height: 170px;
+}
+
+.fries {
+	width: 250px;
+	height: 100px;
+}
+.fries2 {
+	width: 240px;
+	height: 120px;
+}
+
+.pasta {
+	width: 350px;
+	height: 230px;
+}
+
+.pasta2 {
+	width: 240px;
+	height: 120px;
+}
+
+
+
